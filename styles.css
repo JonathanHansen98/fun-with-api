@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://www.itl.cat/pngfile/big/182-1820321_pokmon-wallpaper-and-background-image-happy-national-pokemon.png);
+    background: cover center no-repeat
+}
+
+p, h1, h3, .btn {
+    font-family: "Rokkitt";
+}
+
+#pokeIMG {
+    width: 200px;
+}
+
+.screen {
+    background-color: rgba(164, 213, 255, 0.89);
+    border: 3px groove grey;
+    border-radius: 3px;
+}
